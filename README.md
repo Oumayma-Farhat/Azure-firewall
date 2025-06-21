@@ -10,7 +10,7 @@ This project demonstrates how to configure and manage an Azure **Hub-and-Spoke n
 - **Enabling secure communication between spoke virtual networks (VNets)**
 
 The setup ensures centralized control of traffic, improved network security, and VM-to-VM connectivity across isolated spokes via a secured hub.
-![Architecture Diagram](image/architecture.png)
+![Architecture Diagram](image/Architecture.png)
 
 ---
 
